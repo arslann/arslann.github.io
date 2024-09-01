@@ -19,6 +19,9 @@ import Home from "../pages/Home";
 import { pages } from "../pages/pages";
 import usePageTracking from "../hooks/usePageTracking";
 import { isBrowser } from "react-device-detect";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "../../static/styles/custom.css";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
 
 interface Page {
   index: number;

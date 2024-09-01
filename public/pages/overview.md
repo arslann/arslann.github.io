@@ -24,66 +24,80 @@ Full stack developer proficient in creating dynamic web applications and mobile 
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
+`2024–current` [Siliconmade Academy](https://www.siliconmadeacademy.com/fast/yapay-zeka/)
 
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-  ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+**AI Development**
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
+- Currently enrolled in a 16-week AI development course, focusing on Python libraries and basic algorithms for machine learning and data analysis.
 
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
+  &nbsp;
 
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
+`2022–2023` [Siliconmade Academy](https://www.siliconmadeacademy.com/fast/mobile-frontend/)
 
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
+**Frontend & Mobile Development**
 
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
+- 24 weeks of Javascript, React, React Native, ExpressJs and Redux training where we get weekly assignments.
+- Worked with external cloud APIs (<u>Firebase</u>, <u>Supabase</u>) and integrated them into a React Native application.
+- Utilized Expo navigation, UI elements and other expo APIs(maps, camera, push notifications etc.) to create responsive mobile applications
 
-- **Extension program** in Information Management
-- Courses: Data Structures
-- GPA: 4.0/4.0
+  &nbsp;
 
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
+`2022–2023` [Siliconmade Academy](https://www.siliconmadeacademy.com/fast/temel-programlama/)
 
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+**Foundation Of Programming**
+
+- Built a solid foundation in core programming concepts, including variables, loops, conditionals, and functions, using JavaScript.
+
+  &nbsp;
+
+`2021-2022` [App Academy Open](https://www.appacademy.io/course/app-academy-open)
+
+**Full-Stack Web Development**
+
+- Completed an intensive 28 Week Full Stack Web Development course covering front-end and back-end technologies.
+- Learned fundamentals of front-end development using HTML, CSS, JavaScript, React, and Redux.
+- Developed expertise in back-end development with Node.js, Express, and Sqlite.
+- Built and deployed full-stack web applications from scratch, utilizing <u>RESTful APIs</u>, <u>MVC</u> architecture, and authentication logic with <u>JWT</u>
+- Enhanced problem-solving skills through algorithm challenges, coding exercises, and data structure implementations
+
+  &nbsp;
+
+`2016-2018` [Nisantasi University]()
+
+- **Associate Degree** Medical Imaging Techniques
+
+  &nbsp;
 
 ## Skills
 
 ### General Tech Stacks
 
-- Architecture Design
-- Desktop App Development
 - Web Development (Frontend & Backend)
+- Mobile App Development
 
 ### Programming languages
 
-- C# .NET
-- Python
+- PHP
+  - Laravel
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+  - React Native
+- C#
+
+### Databases
+
+- MySql
+- SQLite
 
 ## Certificates
 
 - Certified Public Accountant (Taiwan)
 
-## Accomplishments
+<!-- ## Accomplishments
 
 **Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them.
+Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. -->
 
 ## Languages
 
-**English**: C1
-**Chinese**: Native
+**English**: B2
