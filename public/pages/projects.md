@@ -1,6 +1,6 @@
 # 🧪 Projects
 
-<div class="mt-5">
+<!-- <div class="mt-5">
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item" role="presentation">
     <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Web</button>
@@ -15,7 +15,7 @@
     <button class="nav-link" id="disabled-tab" data-bs-toggle="tab" data-bs-target="#disabled-tab-pane" type="button" role="tab" aria-controls="disabled-tab-pane" aria-selected="false" disabled>Disabled</button>
   </li>
 </ul>
-</div>
+</div> -->
 
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
@@ -133,6 +133,61 @@
             </div>
           </div>
       </div>
+      <div class="col">
+        <div style="
+          width: 100%;
+          height: 100%;
+          border: 1px solid #ddd;
+          border-radius: 8px;
+          box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+          overflow: hidden;
+          font-family: Arial, sans-serif;
+          display:flex;
+          flex-direction: column;
+          justify-content: space-between;
+        ">
+        <div>
+          <div style="display: flex; justify-content: space-around;">
+            <img src="images/project3.jpeg" alt="Card Image" style="
+            width: auto;
+               height: auto;
+               max-height: 350px;
+             ">
+              <img src="images/project3-1.jpeg" alt="Card Image" style="
+              width: auto;
+                 height: auto;
+                 max-height: 350px;
+               ">
+          </div>
+         <div style="
+            padding: 16px;
+          ">
+            <h2 style="
+              margin: 0 0 8px;
+              font-size: 18px;
+            ">Todo App</h2>
+              <ul style="margin-top: 12px;">
+              <li>Created a mobile todo app using React Native.</li>
+              <li>Used Redux Toolkit to manage application state</li>
+              <li>Used SQLite to store data on the device</li>
+          </ul>
+          <div>
+            <p><span class="fw-bold">Technologies: </span> React Native, Redux Toolkit, SQLite</p>
+          </div>
+          </div>
+        </div>
+          <div style="display: flex; gap: 12px; padding: 16px 24px 16px 24px;">
+                        <a href="https://github.com/arslann/todoAppRN" style="
+              display: inline-block;
+              padding: 8px 16px;
+              font-size: 14px;
+              text-decoration: none;
+              border-radius: 4px;
+              border: 1px solid;
+            ">Github</a>
+          </div>
+        </div>
+    </div>
     </div>
 
   </div>
